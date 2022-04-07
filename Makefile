@@ -1,4 +1,4 @@
-getmblge:
-   gcc malbolge.c -o malbolge
-   install malbolge
+install:
+   gcc output.c -o output
+   install output
    
