@@ -1,4 +1,2 @@
-install:
-   gcc output.c -o output
-   install output
-   
+install: gcc output.c -o output
+         install output
