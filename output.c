@@ -4,6 +4,7 @@ int main(int argc, char* argv[] ) {
       printf("output: no args\n");
       return 1;
     }
-    printf(argv[1] + "\n");
+    printf(argv[1]);
+    printf("\n");
     return 0;
 }
